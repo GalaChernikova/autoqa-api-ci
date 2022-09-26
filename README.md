@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/osuybqbxytxcphmy?svg=true)](https://ci.appveyor.com/project/GalaChernikova/autoqa-api-ci)
